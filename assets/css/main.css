@@ -5165,6 +5165,8 @@ a img {
 }
 .footer {
   background: #1488cc;
+  /* #1ad7c0, */
+  /* #9c29ed, */
   /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #2b32b2, #1488cc);
   /* Chrome 10-25, Safari 5.1-6 */
